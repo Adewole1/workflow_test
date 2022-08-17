@@ -1,0 +1,7 @@
+migrations/
+__pycache__/
+*.env
+auto_env/
+.vscode/*
+*.sqlite3
+automation/*
